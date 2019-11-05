@@ -1,0 +1,2 @@
+no;raw_tweet;bio_tag;tokens;langs;norm_tokens;clean_tweet;
+1;@XXXXXXXXXXX not habits.. tekanan;["B", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "O", "B", "I", "I", "O", "B", "I", "I", "I", "I", "I", "B", "O", "O", "B", "I", "I", "I", "I", "I", "I"];["@XXXXXXXXXXX", "not", "habits", ".", "tekanan"];["un", "en", "en", "un", "id"];["@XXXXXXXXXXX", "not", "habits", ".", "tekanan"];"@XXXXXXXXXXX bukan kebiasaan. tekanan";
