@@ -3,6 +3,8 @@ Code Mixed Normalization
 
 Implementation and data for [Normalization of Indonesian-English Code-Mixed Twitter Data](https://www.aclweb.org/anthology/D19-5554.pdf)
 
+## Citation
+```
 @inproceedings{barik2019normalization,
   title={Normalization of Indonesian-English code-mixed Twitter data},
   author={Barik, Anab Maulana and Mahendra, Rahmad and Adriani, Mirna},
@@ -10,3 +12,4 @@ Implementation and data for [Normalization of Indonesian-English Code-Mixed Twit
   pages={417--424},
   year={2019}
 }
+```
