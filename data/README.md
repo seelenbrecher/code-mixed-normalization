@@ -1,4 +1,3 @@
 # Dataset
 
-The authors is preparing for the data to be published.
-You can watch the repo or hit me an email to maulanaanab@gmail.com.
+You can download the full dataset, named 825_Indonesian_English_CodeMixed.csv, from this GitHub repository.
